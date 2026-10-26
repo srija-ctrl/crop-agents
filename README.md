@@ -88,3 +88,4 @@ dataset labels) followed by prose; plain paragraph files also work. Then run `py
 * Real embeddings + chat need Ollama running. Without it, everything degrades gracefully (TF-IDF retrieval,
   passage-based drafts) and the report says so under *Limitations*.
 * Thresholds (confidence, retrieval score, plausible ranges) are in `crop_agents/config.py`.
+# crop-agents
