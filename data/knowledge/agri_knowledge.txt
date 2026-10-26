@@ -1,0 +1,78 @@
+# Sample agricultural knowledge corpus (general, educational, text-only).
+# Replace or extend this with your own RAG documents. Use "## crop-name" headings
+# (crop names must match the dataset labels, lower-case) for crop-aware retrieval.
+
+## rice
+Rice grows best in warm, humid conditions with high rainfall or reliable irrigation. Fields are kept flooded or saturated during the vegetative stage and drained before harvest. It prefers clay or clay-loam soils that hold water, with a slightly acidic to neutral pH of about 5.5 to 7. Nitrogen is usually applied in split doses (basal, tillering and panicle initiation) to reduce losses. Zinc deficiency is a common problem in flooded soils.
+
+## maize
+Maize prefers warm weather and well-drained loam soils with a pH of about 5.8 to 7.0. It is a heavy nitrogen feeder, so nitrogen is best split between planting and the rapid growth stage. Water stress is most damaging around tasseling and silking, so irrigate at that time if rain is short. Waterlogged fields reduce yield sharply.
+
+## chickpea
+Chickpea is a cool-season legume grown on stored soil moisture with little rainfall. It needs well-drained soil and tolerates a wide pH range from about 6 to 9. Waterlogging is harmful, so avoid over-irrigation; one or two light irrigations at flowering and pod filling are usually enough. It fixes its own nitrogen, so it needs little nitrogen fertilizer but responds to phosphorus.
+
+## kidneybeans
+Kidney beans grow well in mild, moderately warm weather and are sensitive to frost and heat stress during flowering. They need well-drained loamy soil with a pH of about 5.5 to 6.5. They are sensitive to waterlogging and salinity. As a legume they fix some nitrogen, so heavy nitrogen fertilizer is not needed, but phosphorus supports early growth. Irrigate lightly and regularly, especially at flowering and pod set.
+
+## pigeonpeas
+Pigeon pea is a hardy, deep-rooted legume that tolerates dry spells once established. It suits warm climates and well-drained soils with a pH of about 5 to 7. It does not tolerate waterlogging. It fixes nitrogen, so it needs little nitrogen fertilizer; phosphorus is the main nutrient to supply. Irrigation at flowering and pod development helps yield if rain fails.
+
+## mothbeans
+Moth bean is a drought-tolerant legume for hot, dry regions and light sandy soils. It needs very little water and does well on low-fertility soils. Excess moisture and waterlogging harm it. It fixes nitrogen, so nitrogen fertilizer is rarely required. Rely on rainfall and give at most one light irrigation at flowering in prolonged drought.
+
+## mungbean
+Mung bean is a short-duration, warm-season legume that matures in about 60 to 90 days. It prefers well-drained loam with a pH of about 6.2 to 7.2 and does not tolerate waterlogging. It fixes nitrogen, so only a small starter dose of nitrogen and some phosphorus are usually needed. Irrigate at flowering and pod filling if the weather is dry.
+
+## blackgram
+Black gram (urad) grows in warm, humid conditions on loam to clay-loam soils with a pH of about 6.5 to 7.5. It is sensitive to waterlogging, so good drainage is important. As a legume it fixes nitrogen and mainly benefits from phosphorus. Irrigate at flowering and pod filling when rainfall is insufficient.
+
+## lentil
+Lentil is a cool-season legume grown on well-drained soils with a pH of about 6 to 8. It is usually grown on stored soil moisture and is sensitive to waterlogging. It fixes nitrogen and needs little nitrogen fertilizer, but phosphorus and sulphur can help. One or two light irrigations at flowering and pod filling are useful in dry seasons.
+
+## pomegranate
+Pomegranate suits semi-arid, subtropical climates with hot, dry summers and tolerates some salinity and drought once established. It needs well-drained soil with a pH of about 5.5 to 7.5. Drip irrigation gives the best results, and irregular watering can cause fruit cracking. Balanced nitrogen, phosphorus and potassium in split doses, plus organic manure, support fruit quality.
+
+## banana
+Banana needs a warm, humid, tropical climate and rich, well-drained loam with a pH of about 5.5 to 7. It has a high water demand, so frequent irrigation is needed, but the soil must not stay waterlogged. It is a heavy potassium feeder and also needs regular nitrogen; fertilizer is best applied in small, frequent doses. Strong winds can damage the plants, so shelter helps.
+
+## mango
+Mango grows in tropical and subtropical climates on deep, well-drained soils with a pH of about 5.5 to 7.5. A dry spell before flowering encourages flowering, and heavy irrigation or rain at flowering can reduce fruit set. Young trees need regular irrigation, while mature trees need water mainly during fruit development. Nitrogen and potassium, with organic manure, support growth and fruiting.
+
+## grapes
+Grapes prefer warm, dry weather during ripening and well-drained soil with a pH of about 6 to 7. Drip irrigation is common and allows water to be reduced near ripening to improve fruit quality. Potassium is important for fruit quality. High humidity and wet foliage increase the risk of fungal diseases, so good canopy management and airflow are important.
+
+## watermelon
+Watermelon needs warm weather and light, sandy-loam soil with good drainage and a pH of about 6 to 7. Give regular irrigation from planting through fruit set, then reduce watering as fruits ripen to improve sweetness. Potassium supports fruit quality, and nitrogen should be moderate so vines do not grow at the expense of fruit.
+
+## muskmelon
+Muskmelon prefers warm, fairly dry weather and well-drained sandy-loam soil with a pH of about 6 to 7. Water regularly during vine growth and fruit set, and reduce watering near ripening. Avoid wetting the foliage because humid, wet conditions encourage fungal disease. Balanced fertilizer with adequate potassium improves fruit quality.
+
+## apple
+Apple is a temperate fruit that needs cool winters to break dormancy and a mild growing season. It grows on well-drained loam with a pH of about 5.5 to 6.5. It needs regular water during fruit growth but not waterlogging. Potassium and phosphorus support fruit development, and nitrogen should be applied carefully to avoid excessive shoot growth. It generally performs poorly in hot lowland climates.
+
+## orange
+Orange grows in subtropical climates on well-drained soils with a pH of about 6 to 7.5 and is sensitive to waterlogging. Regular, moderate irrigation is needed, especially during flowering and fruit set. Nitrogen and potassium are the main fertilizer needs, and micronutrients such as zinc and iron may be needed if leaves show deficiency symptoms.
+
+## papaya
+Papaya needs a warm, frost-free climate and well-drained soil with a pH of about 6 to 6.5. The plants are very sensitive to waterlogging, which quickly causes root rot. They grow fast and need frequent, light irrigation and regular small doses of nitrogen and potassium. Protect young plants from strong wind.
+
+## coconut
+Coconut is a tropical crop of humid coastal regions that thrives on sandy loam soils with good drainage and a pH of about 5.2 to 8. It needs high, well-distributed rainfall or regular irrigation in dry spells. It responds well to potassium, and also to nitrogen and organic manure. It tolerates some salinity better than most crops.
+
+## cotton
+Cotton needs a long, warm growing season and deep, well-drained soil with a pH of about 6 to 8. It needs moderate water during vegetative growth and flowering, and irrigation should be reduced when bolls begin to open. Nitrogen is the main nutrient and is best split into several doses; excess nitrogen delays maturity. Good drainage prevents root problems.
+
+## jute
+Jute grows in warm, humid conditions with high rainfall on fertile, alluvial loam soils with a pH of about 6 to 7.5. It needs plenty of moisture during its rapid growth phase, but young plants are damaged by prolonged flooding. Nitrogen supports fibre growth and is applied in split doses along with organic manure.
+
+## coffee
+Coffee is grown in tropical highland regions with moderate temperatures, high rainfall and often shade. It prefers well-drained, slightly acidic soil rich in organic matter with a pH of about 6 to 6.5. Irrigation during the dry period can help flowering and berry development, but waterlogging must be avoided. Nitrogen and potassium are the key nutrients and are applied in split doses.
+
+## general
+Irrigation scheduling should follow crop growth stage, soil type and recent rainfall rather than a fixed calendar. Sandy soils drain quickly and need lighter, more frequent irrigation, while clay soils hold water longer and need less frequent, deeper irrigation. Critical stages such as flowering and grain or fruit filling are the most sensitive to water stress.
+
+## general
+Nitrogen, phosphorus and potassium are the three main nutrients. Nitrogen drives leaf and shoot growth and is easily lost, so it is usually applied in split doses. Phosphorus supports root development and early growth. Potassium supports water regulation and fruit or grain quality. A local soil test is the best basis for fertilizer quantities.
+
+## general
+Soil pH controls nutrient availability. Most crops grow best between about pH 6 and 7. Strongly acidic soils can be improved with lime, and alkaline soils with organic matter or gypsum where appropriate. Legumes fix nitrogen with the help of soil bacteria, so they usually need less nitrogen fertilizer than cereals.

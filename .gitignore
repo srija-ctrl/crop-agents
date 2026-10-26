@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+models/
+outputs/
+.pytest_cache/
+data/Crop_recommendation_SYNTHETIC.csv
